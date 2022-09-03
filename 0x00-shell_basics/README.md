@@ -1,1 +1,1 @@
-My third readme
+generating a script that prints the current working directory
